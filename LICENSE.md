@@ -1,4 +1,4 @@
-
+Enhance ClickUp for macOS with updated Script for ClickUp for macOS - focus mode and version history, the #1 script. Includes focus mode and version history for a smoother
 
 
 
